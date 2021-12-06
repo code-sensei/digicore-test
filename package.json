@@ -1,0 +1,21 @@
+{
+  "name": "digicore-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "q1": "node ./solutions/one.js",
+    "q2": "node ./solutions/two.js",
+    "q3": "node ./solutions/three.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-sensei/digicore-test.git"
+  },
+  "author": "Tsowa Babangida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-sensei/digicore-test/issues"
+  },
+  "homepage": "https://github.com/code-sensei/digicore-test#readme"
+}
